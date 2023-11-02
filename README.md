@@ -1,2 +1,2 @@
 # jogo-numero-secreto
-Jogo de adivinhação feito a partir do HTML e JS
+Jogo de adivinhação feito com do HTML e JS
